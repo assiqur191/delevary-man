@@ -1,24 +1,14 @@
-<?php
-
-
-?>
-
-<!DOCTYPE >
-
+<!DOCTYPE html>
 <html>
 <head>
-      <time>MY website</time>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Form Submission</title>
 </head>
 <body>
-   <a href="logout.php">Logout</a>
-<h1>This is the index page </h1>
 
-<br>
-Hello, Username.
-</body>   
-   
+<a type="button" href="loginpage.php">Login</a>
 
-
-
-
+<a type="button" href="signup.php">Sign Up</a>
+</body>
 </html>
